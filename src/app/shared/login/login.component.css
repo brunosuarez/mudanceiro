@@ -1,0 +1,13 @@
+.container-login{
+  text-align: center;
+}
+
+mat-card{
+  display: flex;
+  width: 30vw;
+  justify-content: center;
+}
+
+mat-card-content{
+  min-width: 300px;
+}
